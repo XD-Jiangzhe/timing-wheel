@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/router/Documents/muduo_example/timing wheel/echo.cc
+echo.hpp
+/home/router/Documents/muduo_example/timing wheel/echo.hpp
+
+/home/router/Documents/muduo_example/timing wheel/echo.hpp
+muduo/net/TcpServer.h
+-
+muduo/net/TcpConnection.h
+-
+muduo/base/Logging.h
+-
+muduo/base/Timestamp.h
+-
+iostream
+-
+memory
+-
+functional
+-
+list
+-
+

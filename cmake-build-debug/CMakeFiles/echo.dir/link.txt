@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -g   CMakeFiles/echo.dir/echo.cc.o  -o bin/echo -lmuduo_net -lmuduo_base_cpp11 -lboost_system -lpthread 

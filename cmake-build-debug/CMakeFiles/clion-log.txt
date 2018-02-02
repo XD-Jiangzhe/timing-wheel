@@ -1,0 +1,5 @@
+/home/router/Desktop/clion-2017.3.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/router/Documents/muduo_example/timing wheel"
+-- /usr/lib/libmuduo_base_cpp11.a
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/router/Documents/muduo_example/timing wheel

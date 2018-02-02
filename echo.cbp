@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="echo" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/router/Documents/muduo_example/timing wheel" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/router/Documents/muduo_example/timing wheel" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="echo">
+         <Option output="/home/router/Documents/muduo_example/timing wheel/bin/echo" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/router/Documents/muduo_example/timing wheel/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 echo" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="echo/fast">
+         <Option output="/home/router/Documents/muduo_example/timing wheel/bin/echo" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/router/Documents/muduo_example/timing wheel/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 echo/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="bucket_echo">
+         <Option output="/home/router/Documents/muduo_example/timing wheel/bin/bucket_echo" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/router/Documents/muduo_example/timing wheel/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 bucket_echo" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="bucket_echo/fast">
+         <Option output="/home/router/Documents/muduo_example/timing wheel/bin/bucket_echo" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/router/Documents/muduo_example/timing wheel/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 bucket_echo/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="iopool_echo">
+         <Option output="/home/router/Documents/muduo_example/timing wheel/bin/iopool_echo" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/router/Documents/muduo_example/timing wheel/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 iopool_echo" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="iopool_echo/fast">
+         <Option output="/home/router/Documents/muduo_example/timing wheel/bin/iopool_echo" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/router/Documents/muduo_example/timing wheel/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 iopool_echo/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/router/Documents/muduo_example/timing wheel" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/router/Documents/muduo_example/timing\ wheel/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/router/Documents/muduo_example/timing wheel/bucket_echo.cc">
+         <Option target="bucket_echo"/>
+      </Unit>
+      <Unit filename="/home/router/Documents/muduo_example/timing wheel/bucket_echo.hpp">
+         <Option target="bucket_echo"/>
+      </Unit>
+      <Unit filename="/home/router/Documents/muduo_example/timing wheel/circuit_buffer.cc">
+         <Option target="bucket_echo"/>
+      </Unit>
+      <Unit filename="/home/router/Documents/muduo_example/timing wheel/echo.cc">
+         <Option target="echo"/>
+      </Unit>
+      <Unit filename="/home/router/Documents/muduo_example/timing wheel/echo.hpp">
+         <Option target="echo"/>
+      </Unit>
+      <Unit filename="/home/router/Documents/muduo_example/timing wheel/iopool_echo.cc">
+         <Option target="iopool_echo"/>
+      </Unit>
+      <Unit filename="/home/router/Documents/muduo_example/timing wheel/iopool_echo.hpp">
+         <Option target="iopool_echo"/>
+      </Unit>
+      <Unit filename="/home/router/Documents/muduo_example/timing wheel/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

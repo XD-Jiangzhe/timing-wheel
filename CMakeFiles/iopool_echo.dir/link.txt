@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -g   CMakeFiles/iopool_echo.dir/iopool_echo.cc.o  -o bin/iopool_echo -lmuduo_net_cpp11 -lmuduo_base_cpp11 -lboost_system -lpthread 

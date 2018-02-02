@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -g   CMakeFiles/bucket_echo.dir/bucket_echo.cc.o CMakeFiles/bucket_echo.dir/circuit_buffer.cc.o  -o bin/bucket_echo -lmuduo_net_cpp11 -lmuduo_base_cpp11 -lboost_system -lpthread 

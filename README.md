@@ -1,7 +1,10 @@
 timing-wheel
 时间轮踢掉空闲连接 的 两种大致的做法：
 
-第一种 是 使用 boost/circurt_buffer 和  boost/unordered_set
+第一种 是 circurt_buffer 和  boost/unordered_set
+
+这里我自己实现了一个 circurt_buffer, 也可以使用 circurt_buffer
+一样的效果
 
 unorder_set 使用hash 来存储 数据当桶，无序容器，而 circuryt_buffer 来当做 桶的轮盘，大小resize 之后固定，
 

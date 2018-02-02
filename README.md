@@ -3,8 +3,8 @@ timing-wheel
 
 第一种 是 circurt_buffer 和  boost/unordered_set
 
-这里我自己实现了一个 circurt_buffer, 也可以使用 circurt_buffer
-一样的效果
+这里我自己实现了一个 circurt_buffer, 也可以使用 boost 的 circurt_buffer
+一样的效果， unordered_set std 库中有，但是这里因为 muduo 的tcpconnectionptr 使用的是boost 库的而非std 库的 所以 只能使用 boost 库的来封装 tcpconnection
 
 unorder_set 使用hash 来存储 数据当桶，无序容器，而 circuryt_buffer 来当做 桶的轮盘，大小resize 之后固定，
 
